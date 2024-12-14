@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a,a as x,d as o}from"./app-11On_PXs.js";const c={},r=x("h1",{id:"xxxxxxxxxxx",tabindex:"-1"},[x("a",{class:"header-anchor",href:"#xxxxxxxxxxx","aria-hidden":"true"},"#"),o(" xxxxxxxxxxx")],-1),s=[r];function d(n,_){return t(),a("div",null,s)}const h=e(c,[["render",d],["__file","demo.html.vue"]]);export{h as default};
